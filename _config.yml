@@ -1,0 +1,24 @@
+title: WoLLIC 2025
+description: 31th Workshop on Logic, Language, Information and Computation
+baseurl: /
+url: https://wollic2025.github.io
+
+theme: jekyll-nagymaros
+
+home: /
+copyright: Place Holder
+indexing: true
+
+exclude:
+  - LICENSE
+  - README.md
+  - Gemfile
+  - vendor/
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+sass:
+  sourcemap: never
+  
