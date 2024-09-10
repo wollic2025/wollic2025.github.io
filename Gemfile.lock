@@ -272,7 +272,9 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  jekyll-nagymaros (~> 3.1)
+  github-pages
+  jekyll-feed (~> 0.12)
+  jekyll-nagymaros
 
 BUNDLED WITH
    2.5.18
