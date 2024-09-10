@@ -1,7 +1,7 @@
 ---
 layout: participants
-title: Participants
-description: List of organizers and attendees
+title: Organization
+description: List of all organizing members
 navorder: 3
 ---
 

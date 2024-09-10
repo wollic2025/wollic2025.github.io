@@ -1,7 +1,10 @@
 ---
 layout: index
-description: A simple Jekyll theme for a conference or workshop website
+description: 31th Workshop on Logic, Language, Information and Computation
 ---
+
+![image](porto.avif)
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sit amet luctus venenatis lectus magna fringilla urna. Ut etiam sit amet nisl purus in mollis.
 

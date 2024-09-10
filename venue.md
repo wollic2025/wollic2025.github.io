@@ -1,6 +1,6 @@
 ---
 layout: map
-title: Map
+title: Venue
 description: Overview of conference locations
 navorder: 2
 ---
