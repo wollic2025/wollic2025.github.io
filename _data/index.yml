@@ -1,13 +1,12 @@
 # alerts:
-#   - title: "Hello!"
-#     text: Welcome to WoLLIC'25@Porto!
-#     color: green-1
-#   - text: Don't worry it hasn't started yet!
+#   - title: Upcoming!
+#     text: Abstract Dealine is the 17th February 2025
+#     color: red-1
 buttons:
-  - text: Submissions
-    url: 
-    disabled: true
-  - text: Registration
-    url: 
-    disabled: true
+  - text: Submit
+    url: https://easychair.org/account2/signin_timeout?l=7697538079004804242
+    disabled: false
+  # - text: Register
+  #   url: 
+  #   disabled: true
   

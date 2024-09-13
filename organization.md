@@ -5,6 +5,6 @@ description: List of all organizing members
 navorder: 3
 ---
 
-Rutrum tellus pellentesque eu tincidunt tortor aliquam nulla facilisi. Scelerisque felis imperdiet proin fermentum leo vel orci. Turpis massa sed elementum tempus egestas. Sodales ut etiam sit amet nisl purus in mollis.
+Department of Computer Science, Faculty of Sciences, University of Porto, Portugal
 
-Massa tincidunt dui ut ornare lectus sit.
+Center of Informatics, Federal University of Pernambuco, Brazil

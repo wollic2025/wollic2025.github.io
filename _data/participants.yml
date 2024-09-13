@@ -1,53 +1,82 @@
 groups:
-  - title: Local organizer
+  - title: Organizing Commiteee
     columns: false
     members:
-      - name: Pygoscelis
-        surname: Papua
-        email: gentoo@pengu.in
-        affil: Falkland University
-  # - title: Participants
-  #   sort: true
-  #   columns: true
-  #   members:
-  #     - name: Pygoscelis
-  #       surname: Adeliae
-  #     - name: Pygoscelis
-  #       surname: Antarcticus
-  #       email: chinstrap@pengu.in
-  #     - name: Eudyptula
-  #       surname: Minor
-  #       email: little@pengu.in
-  #     - name: Spheniscus
-  #       surname: Mendiculus
-  #     - name: Spheniscus
-  #       surname: Humboldti
-  #       email: humboldt@pengu.in
-  #     - name: Spheniscus
-  #       surname: Magellanicus
-  #       email: magellanic@pengu.in
-  #     - name: Spheniscus
-  #       surname: Demersus
-  #       email: african@pengu.in
-  #     - name: Megadyptes
-  #       surname: Antipodes
-  #       email: yellow-eyed@pengu.in
-  #     - name: Eudyptes
-  #       surname: Chrysolophus
-  #     - name: Eudyptes
-  #       surname: Schlegeli
-  #       email: royal@pengu.in
-  #     - name: Eudyptes
-  #       surname: Moseleyi
-  #       email: northern-rockhopperi@pengu.in
-  #     - name: Eudyptes
-  #       surname: Chrysocome
-  #       email: southern-rockhopper@pengu.in
-  #     - name: Eudyptes
-  #       surname: Pachyrhynchus
-  #       email: fiordland@pengu.in
-  #     - name: Eudyptes
-  #       surname: Robustus
-  #       email: snares@pengu.in
-  #     - name: Eudyptes
-  #       surname: Sclateri
+      - name: Sandra
+        surname: Alves
+        email: sandra@fc.up.pt
+        affil: University of Porto
+      - name: João
+        surname: Barbosa
+        email: joao.barbosa@fc.up.pt
+        affil: University of Porto
+      - name: Sabine
+        surname: Broda
+        email: sbbroda@fc.up.pt
+        affil: University of Porto
+      - name: Mário
+        surname: Florido
+        email: amflorid@fc.up.pt
+        affil: University of Porto
+      - name: Anjolina
+        surname: de Oliveira
+        # email: amflorid@fc.up.pt
+        affil: Federal University of Pernambuco
+      - name: Ruy
+        surname: de Queiroz
+        # email: amflorid@fc.up.pt
+        affil: Federal University of Pernambuco
+      - name: Miguel
+        surname: Ramos
+        email: jmr@fc.up.pt
+        affil: University of Porto
+  - title: Steering Committee
+    columns: false
+    members:
+      - name: Samson 
+        surname: Abramsky
+      - name: Agata 
+        surname: Ciabattoni
+      - name: Anuj 
+        surname: Dawar
+      - name: Helle 
+        surname: Hvid Hansen
+      - name: Juliette 
+        surname: Kennedy
+      - name: Ulrich 
+        surname: Kohlenbach
+      - name: Daniel 
+        surname: Leivant
+      - name: Leonid 
+        surname: Libkin
+      - name: Lawrence 
+        surname: Moss
+      - name: Luke 
+        surname: Ong
+      - name: Valeria 
+        surname: de Paiva
+      - name: Elaine 
+        surname: Pimentel
+      - name: Ruy 
+        surname: de Queiroz
+      - name: Andre 
+        surname: Scedrov
+      - name: Alexandra
+        surname: Silva
+      - name: Renata
+        surname: Wassermann 
+  - title: Advisory Committee
+    columns: false
+    members:
+      - name: Johan 
+        surname: van Benthem
+      - name: Joe 
+        surname: Halpern
+      - name: Wilfrid
+        surname: Hodges
+      - name: Angus
+        surname: Macintyre
+      - name: Hiroakira
+        surname: Ono
+      - name: Jouko
+        surname: Väänänen
