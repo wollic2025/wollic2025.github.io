@@ -8,7 +8,7 @@ permalink: pretty
 theme: jekyll-nagymaros
 
 home: /
-copyright: 2025 DCC@FCUP
+copyright: DCC@FCUP
 indexing: true
 
 exclude:
