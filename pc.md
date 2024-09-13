@@ -5,4 +5,4 @@ description: List of all members of the Programme Comittee
 navorder: 1
 ---
 
-The full program committee will be published soon.
+The full programme committee will be published soon.

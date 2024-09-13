@@ -1,6 +1,6 @@
 groups:
-  - title: Program Committee
-    sort: true
+  - title: Programme Committee
+    sort: false
     columns: false
     members:
       - name: Dexter
