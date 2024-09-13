@@ -1,8 +1,8 @@
 ---
 layout: pc
-title: Program Comittee
-description: List of all organizing members
+title: Programme Comittee
+description: List of all members of the Programme Comittee
 navorder: 1
 ---
 
-The full program committee will be published ASAP.
+The full program committee will be published soon.
