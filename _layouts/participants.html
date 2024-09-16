@@ -9,12 +9,12 @@ layout: default
     <div class="container">
         <h1 class="display-5">{{ title }}</h1>
         {{ content }}
-        {% if site.data.pc %}
+        {% if site.data.participants %}
         <hr class="my-4">
-        {% assign groups = site.data.pc.groups %}
+        {% assign groups = site.data.participants.groups %}
         {% for group in groups %}
         {% if group.title %}
-        <h5 class="fw-normal">{{ group.title }}</h5>
+        <h5 class="fw-bold">{{ group.title }}</h5>
         {% endif %}
         {% if group.columns %}
         {% assign div = ' id="roster"' %}

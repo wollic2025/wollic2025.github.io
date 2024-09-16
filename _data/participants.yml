@@ -1,9 +1,18 @@
 groups:
+  - title: Programme Committee
+    sort: false
+    columns: false
+    members:
+      - name: Dexter
+        surname: Kozen (Chair)
+        # email: 
+        affil: Cornell University
+      - name: (TBA)
   - title: Organizing Commitee
     columns: false
     members:
       - name: Sandra
-        surname: Alves
+        surname: Alves (Co-Chair)
         email: sandra@fc.up.pt
         affil: University of Porto
       - name: João
@@ -15,7 +24,7 @@ groups:
         email: sbbroda@fc.up.pt
         affil: University of Porto
       - name: Mário
-        surname: Florido
+        surname: Florido (Co-Chair)
         email: amflorid@fc.up.pt
         affil: University of Porto
       - name: Anjolina

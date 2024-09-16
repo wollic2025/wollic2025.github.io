@@ -1,14 +1,28 @@
-center: 41.158219650127556, -8.629160280714256
-zoom: 13
+center: 41.20665394902602, -8.627618732937401
+zoom: 12
 
 markers:
   - title: Venue
     text: Faculty of Sciences 
       - University of Porto
     latlng: 41.15229227653497, -8.640765655067593
+  - title: Sá Carneiro Airport
+    latlng: 41.24962816815652, -8.680562234544407
+  - title: Botica 
+    text: Metro Station
+    latlng: 41.23766112557824, -8.665218731916662
+  - title: Casa da Música
+    text: Metro Station
+    latlng: 41.16110424909781, -8.629799667631415
+  - title: Boavista-Casa da Música 
+    text: Bus Stations
+    latlng: 41.16135616970272, -8.62980565615756
+  - title: Faculdade de Ciências-FCUP1
+    text: Bus Station
+    latlng: 41.15390822244114, -8.641307037646362
 
 polygons:
-  - text: Porto
+  - text: Porto City
     latlng:
       - 41.17355392033648, -8.689760636162292
       - 41.184536083682964, -8.642210439977502
@@ -22,3 +36,14 @@ polygons:
       - 41.14716577096711, -8.640340117685088
       - 41.146400433426734, -8.675686470936315
       - 41.16842157656235, -8.691835124338631
+
+  - text: Airport
+    latlng:
+      - 41.267042620805384, -8.686883174954236
+      - 41.24039286902647, -8.667485444297517
+      - 41.22987193617576, -8.675296034960178
+      - 41.23768211576218, -8.689543925619537
+      
+      
+      
+            

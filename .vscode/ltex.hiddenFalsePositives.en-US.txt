@@ -1,0 +1,2 @@
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QWoLLIC is an annual international forum on interdisciplinary research involving formal logic, computing and programming theory, and natural language and reasoning.\\E$"}
+{"rule":"WHITESPACE_RULE","sentence":"^\\Q| Abstracts Deadline | | 17 February 2025 | | Full Papers Deadline | | 24 February 2025 | | Author Notification | | 12 May 2025 | | Camera-Ready Version |     | 26 May 2025 | | Workshop Dates | | 14-17 July 2025 | | | | |\\E$"}
