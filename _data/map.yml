@@ -3,23 +3,29 @@ zoom: 12
 
 markers:
   - title: Venue
-    text: Faculty of Sciences 
+    text: Rectory
       - University of Porto
-    latlng: 41.15229227653497, -8.640765655067593
-  - title: Sá Carneiro Airport
-    latlng: 41.24962816815652, -8.680562234544407
+    latlng: 41.14695300940124, -8.615673423216439
+  # - title: Sá Carneiro Airport
+  #   latlng: 41.24962816815652, -8.680562234544407
   - title: Botica 
     text: Metro Station
     latlng: 41.23766112557824, -8.665218731916662
-  - title: Casa da Música
+  - title: Trindade
     text: Metro Station
-    latlng: 41.16110424909781, -8.629799667631415
-  - title: Boavista-Casa da Música 
+    latlng: 41.15228960374119, -8.609298977850589
+  - title: Trindade (TRD5)
     text: Bus Stations
-    latlng: 41.16135616970272, -8.62980565615756
-  - title: Faculdade de Ciências-FCUP1
+    latlng: 41.15224053199921, -8.610170510451175
+  - title: Trindade (TRD6)
     text: Bus Station
-    latlng: 41.15390822244114, -8.641307037646362
+    latlng: 41.15108422629171, -8.610836605767211
+  - title: Guilherme Gomes Fernandes
+    text: Bus Station
+    latlng: 41.14769301505735, -8.614684621909387
+  - title: Guil. G. Fernandes
+    text: Bus Station
+    latlng: 41.14757179472517, -8.614770394370872
 
 polygons:
   - text: Porto City
@@ -37,7 +43,7 @@ polygons:
       - 41.146400433426734, -8.675686470936315
       - 41.16842157656235, -8.691835124338631
 
-  - text: Airport
+  - text: Sá Carneiro Airport
     latlng:
       - 41.267042620805384, -8.686883174954236
       - 41.24039286902647, -8.667485444297517
