@@ -3,8 +3,7 @@ zoom: 12
 
 markers:
   - title: Venue
-    text: Rectory
-      - University of Porto
+    text: Rectory of the University of Porto
     latlng: 41.14695300940124, -8.615673423216439
   # - title: Sá Carneiro Airport
   #   latlng: 41.24962816815652, -8.680562234544407
