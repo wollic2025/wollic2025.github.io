@@ -2,32 +2,27 @@ center: 41.20665394902602, -8.627618732937401
 zoom: 12
 
 markers:
-  - title: University of Porto
-    latlng: 41.14695300940124, -8.615673423216439
-  # - title: Venue
-  #   text: Rectory of the University of Porto
-  #   latlng: 41.14695300940124, -8.615673423216439
-  # - title: Sá Carneiro Airport
-  #   latlng: 41.24962816815652, -8.680562234544407
-  # - title: Botica 
-  #   text: Metro Station
-  #   latlng: 41.23766112557824, -8.665218731916662
-  # - title: Trindade
-  #   text: Metro Station
-  #   latlng: 41.15228960374119, -8.609298977850589
-  # - title: Trindade (TRD5)
-  #   text: Bus Stations
-  #   latlng: 41.15224053199921, -8.610170510451175
-  # - title: Trindade (TRD6)
-  #   text: Bus Station
-  #   latlng: 41.15108422629171, -8.610836605767211
-  # - title: Guilherme Gomes Fernandes
-  #   text: Bus Station
-  #   latlng: 41.14769301505735, -8.614684621909387
-  # - title: Guil. G. Fernandes
-  #   text: Bus Station
-  #   latlng: 41.14757179472517, -8.614770394370872
-
+  - title: Conference Venue
+    text: Department of Computer Science
+    latlng: 41.15248685465911, -8.640777167680993
+  - title: Conference Lunches
+    text: Círculo Universitário do Porto
+    latlng: 41.15299253304126, -8.638681057897422
+  - title: Sá Carneiro Airport
+    latlng: 41.24962816815652, -8.680562234544407
+  - title: Botica 
+    text: Metro Station
+    latlng: 41.23766112557824, -8.665218731916662
+  - title: Casa da Música
+    text: Metro Station
+    latlng: 41.16077852924034, -8.628256955604366
+  - title: Casa da Música (Metro)
+    text: Bus Station
+    latlng: 41.16109412767824, -8.629780468377888
+  - title: Faculdade de Ciências FCUP1
+    text: Bus Station
+    latlng: 41.153856568368546, -8.641302831755661
+  
 polygons:
   - text: Porto City
     latlng:
