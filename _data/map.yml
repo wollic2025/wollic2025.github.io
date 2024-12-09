@@ -5,9 +5,9 @@ markers:
   - title: Conference Venue
     text: Department of Computer Science of the Faculty of Sciences, University of Porto
     latlng: 41.15248685465911, -8.640777167680993
-  # - title: Conference Lunches
-  #   text: Círculo Universitário do Porto
-  #   latlng: 41.15299253304126, -8.638681057897422
+  - title: Conference Lunches
+    text: Círculo Universitário do Porto
+    latlng: 41.15299253304126, -8.638681057897422
   - title: Sá Carneiro 
     text: Airport
     latlng: 41.24962816815652, -8.680562234544407
