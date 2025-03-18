@@ -2,12 +2,15 @@ alerts:
     # - title: The PC is out!
     # text: 
     # color: green-1
-  - title: Abstracts Deadline - 17 February 2025
-    # text: 
-    color: green-1
-  - title: Full Papers Deadline - 24 February 2025
+  # - title: Abstracts Deadline - 17 February 2025
+  #   # text: 
+  #   color: green-1
+  # - title: Full Papers Deadline - 24 February 2025
+  #   # text:
+  #   color: blue-1
+  - title: Author Notifications - 12 May 2025
     # text:
-    color: blue-1
+    color: green-1
 buttons:
   - text: programme committee
     url: /committees

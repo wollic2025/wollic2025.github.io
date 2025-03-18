@@ -7,6 +7,11 @@ description: 31<sup>st</sup> Workshop on Logic, Language, Information and Comput
 
 WoLLIC is an annual international forum on interdisciplinary research involving formal logic, computing and programming theory, and natural language and reasoning. Each meeting includes invited talks and tutorials as well as contributed papers. The 31<sup>st</sup> WoLLIC will be held at the University of Porto, Portugal, 14-17 July 2025.
 
+## INVITED SPEAKERS
+
+- [Daniela Petrişan](https://www.irif.fr/~petrisan/) (IRIF, Université de Paris)
+- [Tobias Kappé](https://tobias.kap.pe/index.html) (Leiden University)
+
 ## FORMAT
 
 WoLLIC 2025 will be an **onsite** event.
@@ -60,9 +65,5 @@ ASL sponsorship of WoLLIC 2025 will permit ASL student members to apply for a **
 ## SUBMISSIONS
 
 Proposed contributions should be in English, and consist of a scholarly exposition accessible to the non-specialist, including motivation, background, and comparison with related works. Articles should be written in the LaTeX format of **LNCS by Springer** (see author's instructions [here](http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0)). They must not exceed **12 pages**, with up to **5 additional pages** for **references and technical appendices**. The paper's main results must not be published or submitted for publication in refereed venues, including journals and other scientific meetings. It is expected that each accepted paper be presented at the meeting by one of its authors in person. (At least one author is required to pay a full, on-site registration fee before granting that the paper will be published in the proceedings.) Papers must be submitted electronically at the [WoLLIC 2025 EasyChair website](https://easychair.org/conferences/?conf=wollic2025).
-
-## INVITED SPEAKERS
-
-(TBA)
 
 
