@@ -1,6 +1,6 @@
 ---
 layout: index
-description: 31<sup>st</sup> Workshop on Logic, Language, Information and Computation
+description: 31<sup>st</sup> Workshop on Logic, Language, Information and Computation <br>14 - 17 July 2025
 ---
 
 <img alt='Porto.' style='height: 100%; width: 100%; object-fit: contain' src='porto.avif'/>
@@ -20,15 +20,6 @@ WoLLIC 2025 will be an **onsite** event.
 
 - [Department of Computer Science](https://www.dcc.fc.up.pt/site/), [Faculty of Sciences](https://www.up.pt/fcup/en/), [University of Porto](https://www.up.pt/portal/en/), [Portugal](https://en.wikipedia.org/wiki/Portugal)
 - [Center of Informatics](https://portal.cin.ufpe.br/), [Federal University of Pernambuco](https://www.ufpe.br/), [Brazil](https://en.wikipedia.org/wiki/Brazil)
-
-## SCIENTIFIC SPONSORSHIP
-
-- Interest Group in Pure and Applied Logics (IGPL)
-- Sociedade Portuguesa de Lógica (SPL)
-- European Association for Theoretical Computer Science (EATCS)
-- The Association for Logic, Language and Information (FoLLI) (TBC)
-- Association for Symbolic Logic (ASL) (TBC)
-- Sociedade Brasileira de Lógica (SBL) (TBC)
 
 ## SCOPE
 
@@ -67,5 +58,14 @@ ASL sponsorship of WoLLIC 2025 will permit ASL student members to apply for a **
 ## SUBMISSIONS
 
 Proposed contributions should be in English, and consist of a scholarly exposition accessible to the non-specialist, including motivation, background, and comparison with related works. Articles should be written in the LaTeX format of **LNCS by Springer** (see author's instructions [here](http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0)). They must not exceed **12 pages**, with up to **5 additional pages** for **references and technical appendices**. The paper's main results must not be published or submitted for publication in refereed venues, including journals and other scientific meetings. It is expected that each accepted paper be presented at the meeting by one of its authors in person. (At least one author is required to pay a full, on-site registration fee before granting that the paper will be published in the proceedings.) Papers must be submitted electronically at the [WoLLIC 2025 EasyChair website](https://easychair.org/conferences/?conf=wollic2025).
+
+## SCIENTIFIC SPONSORSHIP
+
+- Interest Group in Pure and Applied Logics (IGPL)
+- Sociedade Portuguesa de Lógica (SPL)
+- European Association for Theoretical Computer Science (EATCS)
+- The Association for Logic, Language and Information (FoLLI) (TBC)
+- Association for Symbolic Logic (ASL) (TBC)
+- Sociedade Brasileira de Lógica (SBL) (TBC)
 
 
