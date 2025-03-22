@@ -24,25 +24,27 @@ WoLLIC 2025 will be an **onsite** event.
 ## SCIENTIFIC SPONSORSHIP
 
 - Interest Group in Pure and Applied Logics (IGPL)
+- Sociedade Portuguesa de Lógica (SPL)
+- European Association for Theoretical Computer Science (EATCS)
 - The Association for Logic, Language and Information (FoLLI) (TBC)
 - Association for Symbolic Logic (ASL) (TBC)
-- European Association for Theoretical Computer Science (EATCS) (TBC)
 - Sociedade Brasileira de Lógica (SBL) (TBC)
 
 ## SCOPE
 
 Contributions are invited on all pertinent subjects, with particular interest in cross-disciplinary topics. Typical but not exclusive areas of interest are: 
-- non-classical logics; 
+
+- non-classical logics;
 - foundations of computing, programming and Artificial Intelligence (AI);
-- novel computation models and paradigms; 
-- broad notions of proof and belief; 
+- novel computation models and paradigms;
+- broad notions of proof and belief;
 - proof mining, type theory, effective learnability and explainable AI; 
-- formal methods in software and hardware development; 
-- logical approach to natural language and reasoning; 
-- logics of programs, actions and resources; 
+- formal methods in software and hardware development;
+- logical approach to natural language and reasoning;
+- logics of programs, actions and resources;
 - foundational aspects of information organization, search, flow, sharing and protection; 
-- foundations of mathematics; 
-- philosophical logic; 
+- foundations of mathematics;
+- philosophical logic;
 - and philosophy of language.
 
 ## PROCEEDINGS
@@ -51,7 +53,7 @@ The proceedings of WoLLIC 2025, including both invited and contributed papers, w
 
 ## STUDENT GRANTS
 
-ASL sponsorship of WoLLIC 2025 will permit ASL student members to apply for a **modest travel grant**. The **deadline** is 90 days before the event starts. See [this page](https://aslonline.org/student-travel-awards/) for details. 
+ASL sponsorship of WoLLIC 2025 will permit ASL student members to apply for a **modest travel grant**. The **deadline** is 90 days before the event starts. See [this page](https://aslonline.org/student-travel-awards/) for details.
 
 ## IMPORTANT DATES
 
