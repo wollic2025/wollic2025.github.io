@@ -62,10 +62,9 @@ Proposed contributions should be in English, and consist of a scholarly expositi
 ## SCIENTIFIC SPONSORSHIP
 
 - Interest Group in Pure and Applied Logics (IGPL)
-- Sociedade Portuguesa de Lógica (SPL)
+- The Association for Logic, Language and Information (FoLLI) 
+- Association for Symbolic Logic (ASL)
 - European Association for Theoretical Computer Science (EATCS)
-- The Association for Logic, Language and Information (FoLLI) (TBC)
-- Association for Symbolic Logic (ASL) (TBC)
-- Sociedade Brasileira de Lógica (SBL) (TBC)
-
-
+- European Association for Computer Science Logic (EACSL)
+- Sociedade Brasileira de Lógica (SBL)
+- Sociedade Portuguesa de Lógica (SPL)
