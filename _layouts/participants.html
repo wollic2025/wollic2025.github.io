@@ -22,7 +22,7 @@ layout: default
         {% assign div = '' %}
         {% endif %}
         <div {{ div }}>
-            <ul class="list-unstyled">
+            <ul class="list-unstyled"></ul>
                 {% if group.sort %}
                 {% assign members = group.members | sort_natural: 'name' %}
                 {% else %}

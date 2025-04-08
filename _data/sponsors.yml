@@ -1,0 +1,11 @@
+groups:
+  - title:
+    columns: true
+    members:
+    - name: LIACC
+      logo: https://liacc.fe.up.pt/liaccwp/wp-content/uploads/2021/05/tr_liacc_logo.png
+      url: https://liacc.fe.up.pt/liaccwp/
+    - name: CMUP
+      logo: https://www.cmup.pt/themes/rebase/logo.svg
+      url: https://www.cmup.pt/
+      
