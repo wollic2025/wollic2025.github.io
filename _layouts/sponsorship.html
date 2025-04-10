@@ -11,7 +11,7 @@ layout: default
             {{ content }}
             {% if site.data.participants %}
             <hr class="my-4">
-            <p>WoLLIC 2025 is proudly supported by:</p>
+            <p>{{ ack }}</p>
             {% assign groups = site.data.sponsors.groups %}
             {% for group in groups %}
             {% if group.title %}
@@ -23,21 +23,18 @@ layout: default
             {% assign div = '' %}
             {% endif %}
             <div align="center">
-            <!-- <div {{ div }}> -->
-                    {% if group.sort %}
-                    {% assign members = group.members | sort_natural: 'name' %}
-                    {% else %}
-                    {% assign members = group.members %}
-                    {% endif %}
-                    {% for member in members %}
-                    <figure style="display: inline-block; margin: 30px;"></figure>
-                    <a href="{{ member.url }}" target="_blank"><img src="{{ member.logo }}" width="300px"></a>
-                    </figure>
-                    {% endfor %}
-            <!-- </div> -->
+                {% if group.sort %}
+                {% assign members = group.members | sort_natural: 'name' %}
+                {% else %}
+                {% assign members = group.members %}
+                {% endif %}
+                {% for member in members %}
+                <a href="{{ member.url }}"><img width="300px" alt="{{ member.name }}" src="/{{ member.logo }}"/></a>
+                </figure>
+                {% endfor %}
+            </div>
             {% endfor %}
             {% endif %}
-        </div>
         </div>
     </main>
 

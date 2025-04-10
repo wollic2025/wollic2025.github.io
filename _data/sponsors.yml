@@ -1,11 +1,17 @@
 groups:
   - title:
     columns: true
+    ack: "WoLLIC 2025 is proudly supported by:"
     members:
+    - name: Universidade do Porto
+      logo: up_logo.png
+      width : 
+      url: https://www.up.pt/portal/pt/
     - name: LIACC
-      logo: https://liacc.fe.up.pt/liaccwp/wp-content/uploads/2021/05/tr_liacc_logo.png
+      logo: liacc_logo.png
       url: https://liacc.fe.up.pt/liaccwp/
     - name: CMUP
-      logo: https://cmup.pt/sites/default/files/2019-03/logo_cmup.png
+      logo: cmup_logo.png
       url: https://www.cmup.pt/
+    
       
