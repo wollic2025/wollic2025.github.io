@@ -29,7 +29,7 @@ layout: default
                 {% assign members = group.members %}
                 {% endif %}
                 {% for member in members %}
-                <a href="{{ member.url }}"><img width="300px" alt="{{ member.name }}" src="/{{ member.logo }}"/></a>
+                <a target="_blank" href="{{ member.url }}"><img width="300px" alt="{{ member.name }}" src="/{{ member.logo }}"/></a>
                 </figure>
                 {% endfor %}
             </div>
