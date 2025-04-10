@@ -1,7 +1,6 @@
 groups:
   - title:
     columns: true
-    ack: "WoLLIC 2025 is proudly supported by:"
     members:
     - name: Universidade do Porto
       logo: up_logo.png
