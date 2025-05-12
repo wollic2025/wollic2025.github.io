@@ -8,9 +8,11 @@ alerts:
   # - title: Full Papers Deadline - 24 February 2025
   #   # text:
   #   color: blue-1
-  - title: Author Notifications - 12 May 2025
-    # text:
-    color: green-1
+  # - title: Author Notifications - 12 May 2025
+  #   # text:
+  #   color: green-1
+  - title: The list of Accepted Papers is out!
+    color: green-2
 buttons:
   - text: programme committee
     url: /committees

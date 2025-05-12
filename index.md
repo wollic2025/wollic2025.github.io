@@ -12,6 +12,9 @@ WoLLIC is an annual international forum on interdisciplinary research involving 
 - [Daniela Petrişan](https://www.irif.fr/~petrisan/) (IRIF, Université de Paris)
 - [Tobias Kappé](https://tobias.kap.pe/index.html) (Leiden University)
 
+## ACCEPTED PAPERS
+The list of accepted papers can be found [here](/accepted).
+
 ## FORMAT
 
 WoLLIC 2025 will be an **onsite** event.

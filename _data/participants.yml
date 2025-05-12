@@ -34,9 +34,9 @@ groups:
       - name: Mikolaj
         surname: Bojanczyk
         affil: University of Warsaw
-      - name: Xavier
-        surname: Caicedo
-        affil: Universidad de los Andes
+      # - name: Xavier
+      #   surname: Caicedo
+      #   affil: Universidad de los Andes
       - name: Hans
         surname: van Ditmarsch
         affil: University of Toulouse, CNRS, IRIT
