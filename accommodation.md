@@ -1,7 +1,7 @@
 ---
-layout: accomodation
-title: Accomodation
-description: Suggested accomodations
+layout: accommodation
+title: Accommodation
+description: Suggested accommodations
 navorder: 5
 ---
 
