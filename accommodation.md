@@ -23,5 +23,5 @@ navorder: 5
 
 ### Youth Hostels (probably your cheapest option):
 
-- Two possibilities are listed at [Hostels in Porto](https://www.hostelworld.com/hostels/europe/portugal/porto/) 
+- Some possibilities are listed at [Hostels in Porto](https://www.hostelworld.com/hostels/europe/portugal/porto/) 
 
