@@ -15,6 +15,7 @@ navorder: 5
 - [Hotel da Musica](https://www.hoteldamusica.com/en/)
 - [Vilar Oporto Hotel](https://casa-de-vilar.portohotel.net/en/)
 - [Portus Cale Hotel](https://www.portuscalehotel.com/en/)
+- [Holiday Inn Express Porto - Boavista](https://www.ihg.com/holidayinnexpress/hotels/gb/en/porto/opoto/hoteldetail)
 
 
 ### AirBnB:
