@@ -9,8 +9,8 @@ WoLLIC is an annual international forum on interdisciplinary research involving 
 
 ## INVITED SPEAKERS
 
-- [Daniela Petrişan](https://www.irif.fr/~petrisan/) (IRIF, Université de Paris)
-- [Tobias Kappé](https://tobias.kap.pe/index.html) (Leiden University)
+- [Daniela Petrişan](https://www.irif.fr/~petrisan/) (IRIF, Université de Paris) *TBA*.
+- [Tobias Kappé](https://tobias.kap.pe/index.html) (Leiden University) *On propositional program equivalence*.
 
 ## ACCEPTED PAPERS
 The list of accepted papers can be found [here](/accepted).

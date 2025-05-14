@@ -2,6 +2,10 @@ groups:
   - title: Local Organizers
     columns: true
     members:
+      - name: Mário
+        surname: Florido (Co-Chair)
+        email: amflorid@fc.up.pt
+        affil: University of Porto
       - name: Sandra
         surname: Alves (Co-Chair)
         email: sandra@fc.up.pt
@@ -13,10 +17,6 @@ groups:
       - name: Sabine
         surname: Broda
         email: sbbroda@fc.up.pt
-        affil: University of Porto
-      - name: Mário
-        surname: Florido (Co-Chair)
-        email: amflorid@fc.up.pt
         affil: University of Porto
       - name: Miguel
         surname: Ramos
