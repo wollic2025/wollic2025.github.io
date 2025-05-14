@@ -2,15 +2,74 @@
 layout: index
 description: 31<sup>st</sup> Workshop on Logic, Language, Information and Computation <br>14 - 17 July 2025
 ---
+<style>
+    .read-more {
+        display: none;
+        margin-top: 0.5em;
+        /* width: 800px; */
+    }
+
+    input[type="checkbox"] {
+        display: none;
+    }
+
+    input[type="checkbox"]:checked ~ .read-more {
+        display: block;
+    }
+
+    .link-like {
+        /* color: black; */
+        /* text-decoration: underline; */
+        cursor: pointer;
+    }
+</style>
 
 <img alt='Porto.' style='height: 100%; width: 100%; object-fit: contain' src='porto.avif'/>
 
 WoLLIC is an annual international forum on interdisciplinary research involving formal logic, computing and programming theory, and natural language and reasoning. Each meeting includes invited talks and tutorials as well as contributed papers. The 31<sup>st</sup> WoLLIC will be held at the University of Porto, Portugal, 14-17 July 2025.
 
 ## INVITED SPEAKERS
+<ul>
+<div>
+    <input type="checkbox" id="abstract-one">
+    <li> <a href="https://www.irif.fr/~petrisan/">Daniela Petrişan</a> (IRIF, Université de Paris) <em>TBA</em>.</li>
+    <label for="abstract-one" class="link-like">&#9660;&nbsp;<em>Show Abstract</em></label>
+    <div class="read-more">
+        <p>
+            TBD
+        </p>
+        </div>
+    </div>
+    <div>
+    <input type="checkbox" id="abstract-two">
+    <li> <a href="https://tobias.kap.pe/index.html">Tobias Kappé</a> (Leiden University) <em>On propositional program equivalence</em>.</li>
+    <label for="abstract-two" class="link-like">&#9660;&nbsp;<em>Show Abstract</em></label>
+    <div class="read-more">
+    <p>Most programmers have an intuitive understanding of general equivalences
+    between programs. For instance, the branches of an if-then-else block can be
+    swapped, as long as its condition is negated --- regardless of what the
+    branches or condition look like. Such propositional program equivalences are
+    useful to verify that a refactoring operation preserves program semantics.</p>
 
-- [Daniela Petrişan](https://www.irif.fr/~petrisan/) (IRIF, Université de Paris) *TBA*.
-- [Tobias Kappé](https://tobias.kap.pe/index.html) (Leiden University) *On propositional program equivalence*.
+    <p>Kleene Algebra with Tests (KAT) has proven to be a very powerful framework for
+    verifying propositional program equivalences, either through manual equational
+    reasoning or by automated equivalence checking. In recent years, the focus has
+    been on a deterministic fragment of KAT that models imperative programs very
+    closely, known as Guarded KAT (GKAT). GKAT has a rich equational theory, which
+    can be used to prove many useful equivalences between imperative programs.
+    What's more, GKAT equivalences can be checked mechanically and efficiently.</p>
+
+    <p>We will survey recent advances surrounding GKAT. Topics discussed include both
+    positive and negative results about GKAT's expressivity, logical completeness,
+    extensions, and decision procedures, as well as connections to decompilation
+    and a conjecture of Milner that was recently resolved.</p>
+
+    <p>This talk will cover joint work with Balder ten Cate, Justin Hsu, Nate Foster,
+    Dexter Kozen, David E. Narváez, Nico Naus, Wojciech Różowski, Todd Schmid,
+    Alexandra Silva, Steffen Smolka, and Cheng Zhang.</p>
+    </div>
+  </div>
+</ul>
 
 ## ACCEPTED PAPERS
 The list of accepted papers can be found [here](/accepted).

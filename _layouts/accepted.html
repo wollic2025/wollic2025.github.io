@@ -9,19 +9,17 @@ layout: default
     <div class="container">
         <h1 class="display-5">Accepted Papers</h1>
         {{ content }}
-        {% if site.data.accepted %}
         <hr class="my-4">
-        {% assign papers = site.data.accepted.papers %}
-        {% for paper in papers %}
         <div>
-            <ul class="list-unstyled"></ul>
+            <ul>
+                {% assign papers = site.data.accepted.papers %}
+                {% for paper in papers %}
                 {% assign title = paper.title %}
                 {% assign authors = paper.authors %}
                 <li>{% for author in authors %}{% assign name = author.name %}{% if forloop.length == 1 %}{% if author.site %}<a href="{{ author.site }}" target="_blank">{{ name }}.</a>{% else %}{{ name }}.{% endif %}{% else %}{% if forloop.first %}{% if author.site %}<a href="{{ author.site }}" target="_blank">{{ name }}</a>{% else %}{{ name }}{% endif %}{% else %}{% if forloop.last %}{% if author.site %} and <a href="{{ author.site }}" target="_blank">{{ name }}</a>.{% else %} and {{ name }}.{% endif %}{% else %}{% if author.site %}, <a href="{{ author.site }}" target="_blank">{{ name }}</a>{% else %}, {{ name }}{% endif %}{% endif %}{% endif %}{% endif %}{% endfor %} <b>{{ title }}</b></li>
+                {% endfor %}
             </ul>
         </div>
-        {% endfor %}
-        {% endif %}
     </div>
 </main>
 
