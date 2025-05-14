@@ -11,6 +11,7 @@ navorder: 5
 
 - [Hotel Douro](https://www.hoteldouro.pt/en)
 - [HF Tuela Porto](https://www.hfhotels.com/en/hotels-en/hf-tuela-porto-en/)
+- [HF Fénix Porto](https://www.hfhotels.com/en/hotels-en/hf-fenix-porto-en/)
 - [Hotel da Musica](https://www.hoteldamusica.com/en/)
 - [Vilar Oporto Hotel](https://casa-de-vilar.portohotel.net/en/)
 - [Portus Cale Hotel](https://www.portuscalehotel.com/en/)
