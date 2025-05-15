@@ -7,23 +7,23 @@ navorder: 5
 
 **Note:** Porto is currently in a housing crisis; prices for hotels and other accommodations have skyrocketed. Please book early!
 
-### Hotels:
+### Hotels (Walking Distance to Venue):
 
-- [Hotel Douro](https://www.hoteldouro.pt/en)
-- [HF Tuela Porto](https://www.hfhotels.com/en/hotels-en/hf-tuela-porto-en/)
-- [HF Fénix Porto](https://www.hfhotels.com/en/hotels-en/hf-fenix-porto-en/)
-- [Hotel da Musica](https://www.hoteldamusica.com/en/)
-- [Vilar Oporto Hotel](https://casa-de-vilar.portohotel.net/en/)
-- [Portus Cale Hotel](https://www.portuscalehotel.com/en/)
-- [Holiday Inn Express Porto - Boavista](https://www.ihg.com/holidayinnexpress/hotels/gb/en/porto/opoto/hoteldetail)
+- [Hotel Douro](https://www.hoteldouro.pt/en) (19 min.)
+- [HF Tuela Porto](https://www.hfhotels.com/en/hotels-en/hf-tuela-porto-en/) (15 min.)
+- [HF Fénix Porto](https://www.hfhotels.com/en/hotels-en/hf-fenix-porto-en/) (15 min.)
+- [Hotel da Musica](https://www.hoteldamusica.com/en/) (18 min.)
+- [Vilar Oporto Hotel](https://casa-de-vilar.portohotel.net/en/) (20 min.)
+- [Portus Cale Hotel](https://www.portuscalehotel.com/en/) (14 min.) 
+- [Holiday Inn Boavista](https://www.ihg.com/holidayinnexpress/hotels/gb/en/porto/opoto/hoteldetail) (24 min.)
 
 
 ### AirBnB:
 
-- At [AirBnB](https://www.airbnb.pt/porto-portugal/stays), you can find anything from luxury accommodations to a mattress on the floor of a shared house
+- At [AirBnB](https://www.airbnb.pt/porto-portugal/stays), you can find anything from luxury accommodations to a mattress on the floor of a shared house.
 
 
-### Youth Hostels (probably your cheapest option):
+### Youth Hostels (Probably your Cheapest Option):
 
-- Some possibilities are listed at [Hostels in Porto](https://www.hostelworld.com/hostels/europe/portugal/porto/) 
+- Some possibilities are listed at [Hostels in Porto](https://www.hostelworld.com/hostels/europe/portugal/porto/).
 
