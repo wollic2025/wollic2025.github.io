@@ -72,7 +72,22 @@ WoLLIC is an annual international forum on interdisciplinary research involving 
 </ul>
 
 ## ACCEPTED PAPERS
+
 The list of accepted papers can be found [here](/accepted).
+
+## REGISTRATION
+
+Registration will open soon!
+
+- Early registration (deadline is June 20):
+    - Regular: 300 euros
+    - Student: 250 euros
+
+- Late registration:
+    - Regular: 360 euros
+    - Student: 310 euros
+
+This includes the WoLLIC reception on 14 July, and the conference dinner on 16 July, as well as lunch and coffee breaks each day.
 
 ## FORMAT
 
