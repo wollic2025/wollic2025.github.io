@@ -32,12 +32,10 @@ WoLLIC is an annual international forum on interdisciplinary research involving 
 <ul>
 <div>
     <input type="checkbox" id="abstract-one">
-    <li> <a href="https://www.irif.fr/~petrisan/">Daniela Petrişan</a> (IRIF, Université de Paris) <em>TBA</em>.</li>
+    <li> <a href="https://www.irif.fr/~petrisan/">Daniela Petrişan</a> (IRIF, Université de Paris) <em>Functorial Mealy machines</em>.</li>
     <label for="abstract-one" class="link-like">&#9660;&nbsp;<em>Show Abstract</em></label>
     <div class="read-more">
-        <p>
-            TBD
-        </p>
+        <p>We first recall a functorial framework for automata theory bridging the algebraic and coalgebraic approach. Various forms of automata can be seen as functors from an input category -- describing the structure of the input, e.g. words or trees -- to an output category -- describing the values produced by a run in such an automaton. For example, deterministic, nondeterministic, weighted automata or transducers over some input alphabet A can all be seen as automata with effects, or functors from the same input category (parametric on A) to some Kleisli category -- modelling the corresponding side-effect: the Kleisli category of the powerset monad for nondeterministic automata, vector spaces for weighted automata over a field, etc. The framework allows for generic minimization and learning algorithms and can be extended from automata over words to tree automata, by suitably modifying the input category. In the rest of the talk we focus on how to model, minimize and learn Mealy machines in this setting. We also discuss the relation with recent work on effectful Mealy machines by Bonchi et al.</p>
         </div>
     </div>
     <div>
