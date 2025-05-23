@@ -16,7 +16,7 @@ navorder: 5
 - [Vilar Oporto Hotel](https://casa-de-vilar.portohotel.net/en/) (20 min.)
 - [Portus Cale Hotel](https://www.portuscalehotel.com/en/) (14 min.) 
 - [Holiday Inn Boavista](https://www.ihg.com/holidayinnexpress/hotels/gb/en/porto/opoto/hoteldetail) (24 min.)
-
+- [HF Ipanema Park](https://www.hfhotels.com/en/hotels-en/hf-ipanema-park-en/) (15 min.)
 
 ### AirBnB:
 
