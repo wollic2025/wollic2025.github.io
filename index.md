@@ -28,6 +28,20 @@ description: 31<sup>st</sup> Workshop on Logic, Language, Information and Comput
 
 WoLLIC is an annual international forum on interdisciplinary research involving formal logic, computing and programming theory, and natural language and reasoning. Each meeting includes invited talks and tutorials as well as contributed papers. The 31<sup>st</sup> WoLLIC will be held at the University of Porto, Portugal, 14-17 July 2025.
 
+## REGISTRATION
+
+Registration is **open** [here](https://forms.gle/GKzvG4vTCEcxhgpS6)!
+
+- Early registration (deadline is June 20):
+    - Regular: 300 euros
+    - Student: 250 euros
+
+- Late registration:
+    - Regular: 360 euros
+    - Student: 310 euros
+
+This includes the WoLLIC reception on 14 July, and the conference dinner on 16 July, as well as lunch and coffee breaks each day.
+
 ## INVITED SPEAKERS
 <ul>
     <div>
@@ -64,7 +78,19 @@ WoLLIC is an annual international forum on interdisciplinary research involving 
     <li> <a href="https://www.irif.fr/~petrisan/">Daniela Petrişan</a> (IRIF, Université de Paris) <em>Functorial Mealy machines</em>.</li>
     <label for="abstract-one" class="link-like">&#9660;&nbsp;<em>Show Abstract</em></label>
     <div class="read-more">
-        <p>We first recall a functorial framework for automata theory bridging the algebraic and coalgebraic approach. Various forms of automata can be seen as functors from an input category -- describing the structure of the input, e.g. words or trees -- to an output category -- describing the values produced by a run in such an automaton. For example, deterministic, nondeterministic, weighted automata or transducers over some input alphabet A can all be seen as automata with effects, or functors from the same input category (parametric on A) to some Kleisli category -- modelling the corresponding side-effect: the Kleisli category of the powerset monad for nondeterministic automata, vector spaces for weighted automata over a field, etc. The framework allows for generic minimization and learning algorithms and can be extended from automata over words to tree automata, by suitably modifying the input category. In the rest of the talk we focus on how to model, minimize and learn Mealy machines in this setting. We also discuss the relation with recent work on effectful Mealy machines by Bonchi et al.</p>
+        <p>We first recall a functorial framework for automata theory bridging the algebraic 
+        and coalgebraic approach. Various forms of automata can be seen as functors from an 
+        input category -- describing the structure of the input, e.g. words or trees -- to an 
+        output category -- describing the values produced by a run in such an automaton. For example, 
+        deterministic, nondeterministic, weighted automata or transducers over some input alphabet 
+        A can all be seen as automata with effects, or functors from the same input category 
+        (parametric on A) to some Kleisli category -- modelling the corresponding side-effect: the 
+        Kleisli category of the powerset monad for nondeterministic automata, vector spaces for weighted
+         automata over a field, etc. The framework allows for generic minimization and learning algorithms
+          and can be extended from automata over words to tree automata, by suitably modifying the input
+          category. In the rest of the talk we focus on how to model, minimize and learn Mealy machines in 
+          this setting. We also discuss the relation with recent work on effectful Mealy machines by Bonchi 
+          et al.</p>
     </div>
     </div>
 </ul>
@@ -72,20 +98,6 @@ WoLLIC is an annual international forum on interdisciplinary research involving 
 ## ACCEPTED PAPERS
 
 The list of accepted papers can be found [here](/accepted).
-
-## REGISTRATION
-
-Registration will open soon!
-
-- Early registration (deadline is June 20):
-    - Regular: 300 euros
-    - Student: 250 euros
-
-- Late registration:
-    - Regular: 360 euros
-    - Student: 310 euros
-
-This includes the WoLLIC reception on 14 July, and the conference dinner on 16 July, as well as lunch and coffee breaks each day.
 
 ## FORMAT
 
