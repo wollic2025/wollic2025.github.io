@@ -9,13 +9,13 @@ navorder: 5
 
 ### Hotels (Walking Distance to Venue):
 
+- [Hotel da Musica](https://www.hoteldamusica.com/en/) (18 min.)
 - [Hotel Douro](https://www.hoteldouro.pt/en) (19 min.)
 - [HF Tuela Porto](https://www.hfhotels.com/en/hotels-en/hf-tuela-porto-en/) (15 min.)
 - [HF Fénix Porto](https://www.hfhotels.com/en/hotels-en/hf-fenix-porto-en/) (15 min.)
-- [Hotel da Musica](https://www.hoteldamusica.com/en/) (18 min.)
-- [Vilar Oporto Hotel](https://casa-de-vilar.portohotel.net/en/) (20 min.)
 - [Portus Cale Hotel](https://www.portuscalehotel.com/en/) (14 min.) 
 - [Holiday Inn Boavista](https://www.ihg.com/holidayinnexpress/hotels/gb/en/porto/opoto/hoteldetail) (24 min.)
+- [Vilar Oporto Hotel](https://casa-de-vilar.portohotel.net/en/) (20 min.)
 - [HF Ipanema Park](https://www.hfhotels.com/en/hotels-en/hf-ipanema-park-en/) (15 min.)
 
 ### AirBnB:
