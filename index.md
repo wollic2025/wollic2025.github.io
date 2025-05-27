@@ -139,6 +139,7 @@ ASL sponsorship of WoLLIC 2025 will permit ASL student members to apply for a **
 | **Full Papers Deadline** | | 24 February 2025 |
 | **Author Notification** | | 12 May 2025 |
 | **Camera-Ready Version** | &nbsp;&nbsp;&nbsp; | 26 May 2025 |
+| **Early Registration Deadline** | | 20 June 2025 |
 | **Workshop Dates** | | 14-17 July 2025 |
 | | | |
 
