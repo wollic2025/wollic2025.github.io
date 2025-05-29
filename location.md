@@ -9,6 +9,11 @@ Porto is a fascinating and vibrant city that has so much to offer as a holiday o
 
 <img alt='Venues' style='height: 100%; width: 100%;' src='/venues.png'/>
 
+### Conference Room
+
+[Rua do Campo Alegre, 1021](https://maps.app.goo.gl/paMsos61EwmfCwS96)<br>
+[Building FC6 - Computer Science (DCC/FCUP) - Room 0.29](https://maps.app.goo.gl/NCZe3QPzrbHKYCAF7)
+
 ### Getting There...
 
 The nearest **airport** to the city of Porto is the [**Sá Carneiro Airtport**](https://www.portoairport.pt/en/opo/home). From there, you can pick one of many efficient public transportation networks at your service on [this page](https://www.portoairport.pt/en/opo/access-parking/getting-to-and-from-the-airport/public-transportation) to get to the venue.
