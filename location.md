@@ -7,7 +7,7 @@ navorder: 4
 
 Porto is a fascinating and vibrant city that has so much to offer as a holiday or city break destination. The city boasts an extensive history, unique tourist attractions, delicious cuisines and buzzing nightlife. Porto has a delightful historic center and is famed for its Port wine, but it is also a young and energetic city, with social nightlife, liberal attitudes and a flourishing artisan scene. Take a look at [this page](https://porto-north-portugal.com) for a quick guide of the city. The conference venue is the **Department of Computer Science of the Faculty of Sciences, University of Porto** and lunches are served at the **Círculo Universitário do Porto**.
 
-<img alt='Venues' style='height: 100%; width: 100%;' src='/venues.png'/>
+<img alt='Venues' style='height: 100%; width: 100%;' src='/venues-v2.png'/>
 
 ### Conference Room
 
