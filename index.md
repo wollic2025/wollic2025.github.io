@@ -95,6 +95,10 @@ This includes the WoLLIC reception on 14 July, and the conference dinner on 16 J
     </div>
 </ul>
 
+## PROGRAM
+
+Click [here](/program) for the Program.
+
 ## ACCEPTED PAPERS
 
 The list of accepted papers can be found [here](/accepted).
