@@ -106,7 +106,7 @@ Paraconsistent Constructive Modal Logic
 
 <hr style="width:100%;text-align:left;margin-left:0;height:3px;color:black;background-color:black">
 
-<h2>Tuesday June 15</h2>
+<h2>Tuesday July 15</h2>
 
 <div class="session">
 <h3>Session 1: 9:30 &ndash; 10:30</h3>
@@ -211,7 +211,7 @@ Eric Rail and Gilberto Gomes.
 
 <hr style="width:100%;text-align:left;margin-left:0;height:3px;color:black;background-color:black">
 
-<h2>Wednesday June 16</h2>
+<h2>Wednesday July 16</h2>
 
 <div class="session">
 <h3>Session 1: 9:30 &ndash; 10:30 (invited talk)</h3>
@@ -257,7 +257,7 @@ Proof Search in Classical Propositional Logic with Partial Proof Terms
 
 <hr style="width:100%;text-align:left;margin-left:0;height:3px;color:black;background-color:black">
 
-<h2>Thursday June 17</h2>
+<h2>Thursday July 17</h2>
 
 <div class="session">
 <h3>Session 1: 9:30 &ndash; 10:30</h3>
