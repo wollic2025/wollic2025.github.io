@@ -13,7 +13,7 @@ navorder: 1
 
 <hr style="width:100%;text-align:left;margin-left:0;height:3px;color:black;background-color:black">
 
-<h2>Monday June 14</h2>
+<h2>Monday July 14</h2>
 
 <div class="event">
 <h3>Registration and opening: 9:00 &ndash; 9:30</h3>
@@ -251,6 +251,7 @@ Proof Search in Classical Propositional Logic with Partial Proof Terms
 <h3>Lunch: 12:00 &ndash; 14:00</h3>
 
 <h3>Free afternoon </h3>
+<p>A suggested route for the afternoon is: 1) Catch the metro at Casa da Música station 2) Leave on Trindade metro station 3) Go to Praça de Carlos Alberto and, from there, visit Igreja do Carmo 4) Follow to Torre dos Clérigos and in the way visit Livraria Lello 5) Go to São Bento Train Station 6) Follow down Rua das Flores to Ribeira. You may now relax on one of the lively bars of Ribeira, or cross Ponte Luís I bridge and visit a Port wine cellar (some options include Cálem, Sandeman or Ferreira port cellars).</p>
 
 <h3>Social Dinner at <a href="https://www.torreao.pt">Restaurante Torreão</a>: 19:00</h3>
 
