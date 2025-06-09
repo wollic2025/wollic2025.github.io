@@ -20,7 +20,7 @@ navorder: 5
 
 ### University Residences/Guest Houses:
 
-- [Porto Concept Home Polo III Campo Alegre](https://www.booking.com/hotel/pt/porto-concept-home-university-residence-amp-guesthouse-polo-iii-campo-alegre.pt-pt.html) (7 min.)
+- [Porto Concept Home Polo III Campo Alegre](https://www.booking.com/hotel/pt/porto-concept-home-university-residence-amp-guesthouse-polo-iii-campo-alegre.en-gb.html) (7 min.)
 
 ### AirBnB:
 
