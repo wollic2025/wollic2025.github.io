@@ -26,7 +26,7 @@ navorder: 5
 
 - Some possibilities are listed at [Hostels in Porto](https://www.hostelworld.com/hostels/europe/portugal/porto/).
 
-### University Residence:
+### University Residences/Guest Houses:
 
 - [Porto Concept Home Polo III Campo Alegre](https://www.booking.com/hotel/pt/porto-concept-home-university-residence-amp-guesthouse-polo-iii-campo-alegre.pt-pt.html) (7 min.)
 
