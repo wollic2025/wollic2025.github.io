@@ -18,6 +18,10 @@ navorder: 5
 - [Vilar Oporto Hotel](https://casa-de-vilar.portohotel.net/en/) (20 min.)
 - [HF Ipanema Park](https://www.hfhotels.com/en/hotels-en/hf-ipanema-park-en/) (15 min.)
 
+### University Residences/Guest Houses:
+
+- [Porto Concept Home Polo III Campo Alegre](https://www.booking.com/hotel/pt/porto-concept-home-university-residence-amp-guesthouse-polo-iii-campo-alegre.pt-pt.html) (7 min.)
+
 ### AirBnB:
 
 - At [AirBnB](https://www.airbnb.pt/porto-portugal/stays), you can find anything from luxury accommodations to a mattress on the floor of a shared house.
@@ -26,7 +30,4 @@ navorder: 5
 
 - Some possibilities are listed at [Hostels in Porto](https://www.hostelworld.com/hostels/europe/portugal/porto/).
 
-### University Residences/Guest Houses:
-
-- [Porto Concept Home Polo III Campo Alegre](https://www.booking.com/hotel/pt/porto-concept-home-university-residence-amp-guesthouse-polo-iii-campo-alegre.pt-pt.html) (7 min.)
 
