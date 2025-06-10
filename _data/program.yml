@@ -1,63 +1,166 @@
-# legend:
-#   title: Legend
-#   categories:
-#     - name: A category
-#       color: blue-6
-#     - name: Another category
-#       color: red-6
-#     - name: Yet another category
-#       color: teal-6
+legend:
+  title: Legend
+  categories:
+    # - name: Event
+    #   color: orange-6
+    - name: Invited Talk
+      color: teal-6
+    - name: Session 1
+      color: red-6
+    - name: Session 2
+      color: pink-6
+    - name: Session 3
+      color: violet-6
+    - name: Session 4
+      color: blue-6
+    
 
-# days:
-#   - name: Day 1
-#     events:
-#       - time: 8:00 to 9:00
-#         title: Registration and coffee
-#       - time: 9:00 to 11:00
-#         title: Lorem ipsum
-#         subtitle: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-#         category: A category
-#       - time: 11:00 to 13:00
-#         title: Dolor sit amet
-#         subtitle: Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-#         category: A category
-#       - time: 13:00 to 14:00
-#         title: Lunch break
-#       - time: 14:00 to 16:00
-#         title: Consectetur adipiscing elit
-#         subtitle: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
-#         category: Another category
-#       - time: 16:00 to 18:00
-#         title: Sed do eiusmod
-#         subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
-#         category: Another category
-#   - name: Day 2
-#     events:
-#       - time: 8:00 to 9:00
-#         title: Coffee
-#       - time: 9:00 to 11:00
-#         title: Tempor incididunt
-#         subtitle: Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-#         category: A category
-#         paper: /assets/files/paper-1.pdf
-#       - time: 11:00 to 13:00
-#         title: Ut labore et dolore
-#         subtitle: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
-#         category: Another category
-#       - time: 13:00 to 14:00
-#         title: Lunch break
-#       - time: 14:00 to 16:00
-#         title: Magna aliqua
-#         subtitle: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-#         category: Yet another category
-#         paper: /assets/files/paper-2.pdf
-#         slides: /assets/files/slides.pdf
-#       - time: 16:00 to 18:00
-#         title: Poster presentations
-#         category: Yet another category
-#         poster:
-#           - /assets/files/poster-a.pdf
-#           - /assets/files/poster-b.pdf
-#           - /assets/files/poster-c.pdf
-#       - time: 18:00 to 19:00
-#         title: Closing
+days:
+  - name: Monday July 14
+    events:
+      - time: 9:00 to 9:30
+        title: Registration and opening
+        category: Event
+      - time: 9:30 to 10:30
+        title: On Propositional Program Equivalence
+        subtitle: Tobias Kappé 
+        category: Invited Talk
+      - time: 10:30 to 11:00
+        title: Coffee break
+        category: Event
+      - time: 11:00 to 11:30
+        title: Axiomatization and Decidability of Tense Information Logic
+        subtitle: Timo Niek Franssen and Søren Brinck Knudstorp
+        category: Session 1
+      - time: 11:30 to 12:00
+        title: Infinitary Refinement Types for Temporal Properties in Scott Domains
+        subtitle: Colin Riba and Alexandre Kejikian
+        category: Session 1
+      - time: 12:00 to 14:00
+        title: Lunch
+        category: Event
+      - time: 14:00 to 14:30
+        title: Insensitive Games&colon; Game Semantics for Modal Insensitivity
+        subtitle: Can Baskent, Dave Gilbert and Giorgio Venturi
+        category: Session 2
+      - time: 14:30 to 15:00
+        title: Constructive Modal Logics&colon; Bi-nested Calculi and Bi-relational Countermodels
+        subtitle: Han Gao and Nicola Olivetti
+        category: Session 2
+      - time: 15:00 to 15:30
+        title: Coffee break
+        category: Event
+      - time: 15:30 to 16:00
+        title: Graded Relation Updates in Modal Logic
+        subtitle: Raul Fervari, Daniel Figueiredo and Manuel A. Martins
+        category: Session 3
+      - time: 16:00 to 16:30
+        title: Paraconsistent Constructive Modal Logic
+        subtitle: Han Gao, Daniil Kozhemiachenko and Nicola Olivetti
+        category: Session 3
+        # paper: /assets/files/paper-2.pdf
+        # slides: /assets/files/slides.pdf
+      - time: 16:45 to 20:00
+        title: Welcome Reception
+        category: Event
+  - name: Tuesday July 15
+    events:
+      - time: 9:30 to 10:00
+        title: Index set complexity for congruence lattices of lattices
+        subtitle: Bjørn Kjos-Hanssen and Paul Kim Long V. Nguyen
+        category: Session 1
+      - time: 10:00 to 10:30
+        title: Convergence laws for expansions of linear preorders
+        subtitle: Vera Koponen and Edward Karlsson
+        category: Session 1
+      - time: 10:30 to 11:00
+        title: Coffee break
+        category: Event
+      - time: 11:00 to 11:30
+        title: Deep Induction for Inductive Families
+        subtitle: Patricia Johann and Edward Morehouse
+        category: Session 2
+      - time: 11:30 to 12:00
+        title: Denotation of sentential complements
+        subtitle: Richard Zuber
+        category: Session 2
+      - time: 12:00 to 14:00
+        title: Lunch
+        category: Event
+      - time: 14:00 to 14:30
+        title: On tame semantics for interpretability logic
+        subtitle: Vicent Navarro Arroyo and Joost Johannes Joosten
+        category: Session 3
+      - time: 14:30 to 15:00
+        title: Abstracting Conceptual Models as a Weakening Process
+        subtitle: Elena Romanenko, Oliver Kutz, Diego Calvanese and Giancarlo Guizzardi
+        category: Session 3
+      - time: 15:00 to 15:30
+        title: Coffee break
+        category: Event
+      - time: 15:30 to 16:00
+        title: Logics of Importation and Exportation for the Implicative Conditional
+        subtitle: Eric Raidl
+        category: Session 4
+      - time: 16:00 to 16:30
+        title: Indicative conditionals&colon; algebraic considerations
+        subtitle: Umberto Rivieccio and Miguel Muñoz Pérez
+        category: Session 4
+      - time: 16:30 to 17:00
+        title: (Full paper) Counterexamples to Import-Export in Conditionals&colon; A Logical Analysis
+        subtitle: Eric Rail and Gilberto Gomes
+        category: Session 4
+  - name: Wednesday July 16
+    events:
+      - time: 9:30 to 10:30
+        title: Functorial Mealy machines
+        subtitle: Daniela Petriçan
+        category: Invited Talk
+      - time: 10:30 to 11:00
+        title: Coffee break
+        category: Event
+      - time: 11:00 to 11:30
+        title: Asymptotic Reasoning with Two Variables
+        subtitle: Juan Montoya
+        category: Session 1
+      - time: 11:30 to 12:00
+        title: Proof Search in Classical Propositional Logic with Partial Proof Terms
+        subtitle: José Espírito Santo and Ana Catarina Sousa
+        category: Session 1
+      - time: 12:00 to 14:00
+        title: Lunch
+        category: Event
+      - time: 14:00 to 19:00
+        title: Free afternoon
+        subtitle: A suggested route for the afternoon is&colon; 1) Catch the metro at Casa da Música station 2) Leave on Trindade metro station 3) Go to Praça de Carlos Alberto and, from there, visit Igreja do Carmo 4) Follow to Torre dos Clérigos and in the way visit Livraria Lello 5) Go to São Bento Train Station 6) Follow down Rua das Flores to Cais da Ribeira. You may now relax on one of the lively bars of Ribeira, or cross Ponte Luís I bridge and visit a Port wine cellar (some options include Cálem, Sandeman or Ferreira port cellars).
+        category: Event
+      - time: 19:00 to 22:00
+        title: Social Dinner at <a href='https://www.torreao.pt'>Restaurante Torreão</a>
+        category: Event
+  - name: Thursday July 17
+    events:
+      - time: 9:30 to 10:00
+        title: A significance-based account of ceteris paribus counterfactuals
+        subtitle: Avgerinos Delkos and Marianna Girlando
+        category: Session 1
+      - time: 10:00 to 10:30
+        title: Tabular intermediate logics comparison
+        subtitle: Paweł Rzążewski and Michał Stronkowski
+        category: Session 1
+      - time: 10:30 to 11:00
+        title: Coffee break
+        category: Event
+      - time: 11:00 to 11:30
+        title: The Satisfiability Problem in a Separation Logic of Relations
+        subtitle: Nicolas Peltier
+        category: Session 2
+      - time: 11:30 to 12:00
+        title: Insignificant Choice Polynomial Time - A Logic Capturing PTIME
+        subtitle: Klaus-Dieter Schewe
+        category: Session 2
+      - time: 12:00 to 12:15
+        title: Closing
+        category: Event
+      - time: 12:15 to 14:15
+        title: Lunch
+        category: Event
