@@ -90,8 +90,8 @@ papers:
   - title: Insignificant Choice Polynomial Time -- A Logic Capturing PTIME
     authors:
       - name: Klaus-Dieter Schewe
-  - title: "(Full paper) Counterexamples to Import-Export in Conditionals: A Logical Analysis"
+  - title: "Counterexamples to Import-Export in Conditionals: A Logical Analysis"
     authors:
-      - name: Eric Rail
+      - name: Eric Raidl
       - name: Gilberto Gomes
 

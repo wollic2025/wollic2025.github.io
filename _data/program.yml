@@ -60,7 +60,7 @@ days:
         category: Session 3
         # paper: /assets/files/paper-2.pdf
         # slides: /assets/files/slides.pdf
-      - time: 16:45 to 20:00
+      - time: 16:45 to 19:00
         title: Welcome Reception
         category: Event
   - name: Tuesday July 15
@@ -99,16 +99,16 @@ days:
         title: Coffee break
         category: Event
       - time: 15:30 to 16:00
-        title: Logics of Importation and Exportation for the Implicative Conditional
-        subtitle: Eric Raidl
+        title: Counterexamples to Import-Export in Conditionals&colon; A Logical Analysis
+        subtitle: Eric Raidl and Gilberto Gomes
         category: Session 4
       - time: 16:00 to 16:30
         title: Indicative conditionals&colon; algebraic considerations
         subtitle: Umberto Rivieccio and Miguel Muñoz Pérez
         category: Session 4
       - time: 16:30 to 17:00
-        title: (Full paper) Counterexamples to Import-Export in Conditionals&colon; A Logical Analysis
-        subtitle: Eric Rail and Gilberto Gomes
+        title: Logics of Importation and Exportation for the Implicative Conditional
+        subtitle: Eric Raidl
         category: Session 4
   - name: Wednesday July 16
     events:
@@ -134,7 +134,7 @@ days:
         title: Free afternoon
         subtitle: A suggested route for the afternoon is&colon; 1) Catch the metro at Casa da Música station 2) Leave on Trindade metro station 3) Go to Praça de Carlos Alberto and, from there, visit Igreja do Carmo 4) Follow to Torre dos Clérigos and in the way visit Livraria Lello 5) Go to São Bento Train Station 6) Follow down Rua das Flores to Cais da Ribeira. You may now relax on one of the lively bars of Ribeira, or cross Ponte Luís I bridge and visit a Port wine cellar (some options include Cálem, Sandeman or Ferreira port cellars).
         category: Event
-      - time: 19:00 to 22:00
+      - time: 19:00 to 23:00
         title: Social Dinner at <a href='https://www.torreao.pt'>Restaurante Torreão</a>
         category: Event
   - name: Thursday July 17
