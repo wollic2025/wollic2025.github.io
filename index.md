@@ -2,27 +2,6 @@
 layout: index
 description: 31<sup>st</sup> Workshop on Logic, Language, Information and Computation <br>14 - 17 July 2025
 ---
-<style>
-    .read-more {
-        display: none;
-        margin-top: 0.5em;
-        /* width: 800px; */
-    }
-
-    input[type="checkbox"] {
-        display: none;
-    }
-
-    input[type="checkbox"]:checked ~ .read-more {
-        display: block;
-    }
-
-    .link-like {
-        /* color: black; */
-        /* text-decoration: underline; */
-        cursor: pointer;
-    }
-</style>
 
 <img alt='Porto.' style='height: 100%; width: 100%; object-fit: contain' src='porto.avif'/>
 
@@ -47,7 +26,7 @@ This includes the WoLLIC reception on 14 July, and the conference dinner on 16 J
     <div>
     <input type="checkbox" id="abstract-two">
     <li> <a href="https://tobias.kap.pe/index.html">Tobias Kappé</a> (Leiden University) <em>On propositional program equivalence</em>.</li>
-    <label for="abstract-two" class="link-like">&#9660;&nbsp;<em>Show Abstract</em></label>
+    <label for="abstract-two" class="link-like">&#11167;&nbsp;<em>Show Abstract</em></label>
     <div class="read-more">
     <p>Most programmers have an intuitive understanding of general equivalences
     between programs. For instance, the branches of an if-then-else block can be
@@ -76,7 +55,7 @@ This includes the WoLLIC reception on 14 July, and the conference dinner on 16 J
     <div>
     <input type="checkbox" id="abstract-one">
     <li> <a href="https://www.irif.fr/~petrisan/">Daniela Petrişan</a> (IRIF, Université de Paris) <em>Functorial Mealy machines</em>.</li>
-    <label for="abstract-one" class="link-like">&#9660;&nbsp;<em>Show Abstract</em></label>
+    <label for="abstract-one" class="link-like">&#11167;&nbsp;<em>Show Abstract</em></label>
     <div class="read-more">
         <p>We first recall a functorial framework for automata theory bridging the algebraic 
         and coalgebraic approach. Various forms of automata can be seen as functors from an 

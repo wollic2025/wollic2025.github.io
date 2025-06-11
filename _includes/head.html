@@ -24,3 +24,25 @@
     <link rel="stylesheet" href="{{ 'assets/css/open-color.css' | relative_url }}">
     <link rel="stylesheet" href="{{ 'assets/css/styles.css' | relative_url }}">
 </head>
+
+    <style>
+    .read-more {
+        display: none;
+        margin-top: 0.5em;
+        /* width: 800px; */
+    }
+
+    input[type="checkbox"] {
+        display: none;
+    }
+
+    input[type="checkbox"]:checked ~ .read-more {
+        display: block;
+    }
+
+    .link-like {
+        /* color: black; */
+        /* text-decoration: underline; */
+        cursor: pointer;
+    }
+</style>
