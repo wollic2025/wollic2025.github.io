@@ -11,7 +11,7 @@ WoLLIC is an annual international forum on interdisciplinary research involving 
 
 Registration is **open** [here](https://forms.gle/GKzvG4vTCEcxhgpS6)!
 
-- Late registration:
+- Registration fees:
     - Regular: 360 euros
     - Student: 310 euros
 
