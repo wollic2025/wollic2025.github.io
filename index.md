@@ -7,7 +7,7 @@ description: 31<sup>st</sup> Workshop on Logic, Language, Information and Comput
 
 WoLLIC is an annual international forum on interdisciplinary research involving formal logic, computing and programming theory, and natural language and reasoning. Each meeting includes invited talks and tutorials as well as contributed papers. The 31<sup>st</sup> WoLLIC will be held at the University of Porto, Portugal, 14-17 July 2025.
 
-## REGISTRATION
+<!-- ## REGISTRATION
 
 Registration is **open** [here](https://forms.gle/GKzvG4vTCEcxhgpS6)!
 
@@ -15,7 +15,7 @@ Registration is **open** [here](https://forms.gle/GKzvG4vTCEcxhgpS6)!
     - Regular: 360 euros
     - Student: 310 euros
 
-This includes the WoLLIC reception on 14 July, and the conference dinner on 16 July, as well as lunch and coffee breaks each day.
+This includes the WoLLIC reception on 14 July, and the conference dinner on 16 July, as well as lunch and coffee breaks each day. -->
 
 ## INVITED SPEAKERS
 <ul>
